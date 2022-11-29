@@ -7,3 +7,10 @@ This is a list:
 * second
 * third
 
+this code
+```
+
+//code
+
+```
+hi
